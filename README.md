@@ -1,6 +1,6 @@
 # Header in markdown
 Texto random
 
-##Segundo header?
+## Segundo header?
 Hace falta espacio
 ## O no?
